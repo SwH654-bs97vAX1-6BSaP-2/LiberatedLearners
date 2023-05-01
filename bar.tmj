@@ -16398,7 +16398,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "bar-chunk-1-4b3bc930.png",
+      "image": "bar-chunk-1-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16424,7 +16424,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "bar-chunk-2-4b3bc930.png",
+      "image": "bar-chunk-2-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16439,7 +16439,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "bar-chunk-3-4b3bc930.png",
+      "image": "bar-chunk-3-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16454,7 +16454,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "bar-chunk-4-4b3bc930.png",
+      "image": "bar-chunk-4-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16469,7 +16469,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "bar-chunk-5-4b3bc930.png",
+      "image": "bar-chunk-5-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16484,7 +16484,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "bar-chunk-6-4b3bc930.png",
+      "image": "bar-chunk-6-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16499,7 +16499,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "bar-chunk-7-4b3bc930.png",
+      "image": "bar-chunk-7-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16514,7 +16514,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "bar-chunk-8-4b3bc930.png",
+      "image": "bar-chunk-8-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16529,7 +16529,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "bar-chunk-9-4b3bc930.png",
+      "image": "bar-chunk-9-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16544,7 +16544,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "bar-chunk-10-4b3bc930.png",
+      "image": "bar-chunk-10-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16559,7 +16559,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "bar-chunk-11-4b3bc930.png",
+      "image": "bar-chunk-11-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16574,7 +16574,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "bar-chunk-12-4b3bc930.png",
+      "image": "bar-chunk-12-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16589,7 +16589,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "bar-chunk-13-4b3bc930.png",
+      "image": "bar-chunk-13-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16604,7 +16604,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "bar-chunk-14-4b3bc930.png",
+      "image": "bar-chunk-14-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16619,7 +16619,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "bar-chunk-15-4b3bc930.png",
+      "image": "bar-chunk-15-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16634,7 +16634,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "bar-chunk-16-4b3bc930.png",
+      "image": "bar-chunk-16-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16649,7 +16649,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "bar-chunk-17-4b3bc930.png",
+      "image": "bar-chunk-17-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16664,7 +16664,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "bar-chunk-18-4b3bc930.png",
+      "image": "bar-chunk-18-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16679,7 +16679,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "bar-chunk-19-4b3bc930.png",
+      "image": "bar-chunk-19-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16694,7 +16694,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "bar-chunk-20-4b3bc930.png",
+      "image": "bar-chunk-20-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16709,7 +16709,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "bar-chunk-21-4b3bc930.png",
+      "image": "bar-chunk-21-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16724,7 +16724,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "bar-chunk-22-4b3bc930.png",
+      "image": "bar-chunk-22-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16739,7 +16739,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "bar-chunk-23-4b3bc930.png",
+      "image": "bar-chunk-23-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16754,7 +16754,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "bar-chunk-24-4b3bc930.png",
+      "image": "bar-chunk-24-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16769,7 +16769,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "bar-chunk-25-4b3bc930.png",
+      "image": "bar-chunk-25-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16784,7 +16784,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "bar-chunk-26-4b3bc930.png",
+      "image": "bar-chunk-26-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16799,7 +16799,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "bar-chunk-27-4b3bc930.png",
+      "image": "bar-chunk-27-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16814,7 +16814,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "bar-chunk-28-4b3bc930.png",
+      "image": "bar-chunk-28-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16829,7 +16829,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "bar-chunk-29-4b3bc930.png",
+      "image": "bar-chunk-29-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16844,7 +16844,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "bar-chunk-30-4b3bc930.png",
+      "image": "bar-chunk-30-24ef7ed6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16859,7 +16859,7 @@
     {
       "columns": 13,
       "firstgid": 7681,
-      "image": "bar-chunk-31-4b3bc930.png",
+      "image": "bar-chunk-31-24ef7ed6.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
